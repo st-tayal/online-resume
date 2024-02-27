@@ -1,2 +1,2 @@
-# cp1-online-resume
-Capstone Project 1:  Online Resume
+# online-resume
+My Basic Online Resume
